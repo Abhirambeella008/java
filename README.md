@@ -1,15 +1,15 @@
 "# java" 
 Day-1: Programs:- 
-              spiral binding of matrix
+              Spiral Binding of Matrix
 
 Day-2: programs:-
-              Count of zeroes,
-              swap of 2 numbers,
-              area and perimeter of triangle,
-              triangle pattern,
-              prime check,
-              fibonacci series,
-              reverse of string
+              Count of Zeroes,
+              Swap of 2 Numbers,
+              Area and Perimeter of Triangle,
+              Triangle Pattern,
+              Prime Check,
+              Fibonacci Series,
+              Reverse of String
               
 
 Day-3:Programs:-
